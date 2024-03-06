@@ -9,7 +9,7 @@
 
 - 💡 Passionate about data-driven decision-making
 
-- 👨‍💻 Proficient in **Tableau**, **SQL**, **Google BigQuery**, and creating **insightful dashboards**
+- 👨‍💻 Proficient in **Tableau**, **SQL**, **Google BigQuery**, and creating insightful **dashboards**
 
 - 📊 Skilled in conducting **Cohort Analysis**, **Funnels**, **RFM**, **CLV** and **A/B testing** to derive business insights, calculating **Linear and Logistic Regressions**
 
