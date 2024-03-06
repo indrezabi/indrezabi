@@ -14,6 +14,8 @@
 - 📊 Skilled in conducting **Cohort Analysis**, **Funnels**, **RFM**, **CLV** and **A/B testing** to derive business insights, calculating **Linear and Logistic Regressions**
 
 - 🌱 Currently learning **Python**
+  
+- 💛 love cats 🐈‍⬛, dance 👠, technologies 👩🏻‍💻 and stance 🚘
 
 <div>
   <h2></h2>
