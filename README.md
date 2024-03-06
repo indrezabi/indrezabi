@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 2em; font-weight: bold;">Hello 👋 Nice to see you! 👩🏻‍💻 </h1>
 </div>
-<img align="center" height="250" src="https://github.com/indrezabi/Info-for-readme-file/blob/05db470347c86f31e619838e9f3f74554091f2bb/%5BOriginal%20size%5D%20White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg">
+<img align="center" height="230" src="https://github.com/indrezabi/Info-for-readme-file/blob/05db470347c86f31e619838e9f3f74554091f2bb/%5BOriginal%20size%5D%20White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg">
 
 - 🎓 I'm graduating Data Analytics course at **Turing College**
 
