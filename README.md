@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning **Python**
   
-- 💛 love cats 🐈‍⬛, dance 👠, technologies 👩🏻‍💻 and stance 🚘
+- 💛 I love cats 🐈‍⬛, dance 👠, technologies 👩🏻‍💻 and stance 🚘
 
 <div>
   <h2></h2>
