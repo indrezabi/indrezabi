@@ -1,7 +1,8 @@
 <div align="center">
   <h1 style="font-size: 2em; font-weight: bold;">Hello 👋 Nice to see you! 👩🏻‍💻 </h1>
 </div>
-<img align="center" style="max-width: 100%; height: auto;" src="indrezabi/indrezabi/[Original size] White Minimalist Corporate Personal Profile LinkedIn Banner.jpg">
+<img align="center" style="max-width: 100%; height: auto;" src="https://github.com/indrezabi/indrezabi/blob/main/Banner_Indre.jpg">
+
 
 - 🎓 I'm graduating Data Analytics course at **Turing College**
 
