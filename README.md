@@ -4,17 +4,15 @@
 <img align="center" style="max-width: 100%; height: auto;" src="https://github.com/indrezabi/indrezabi/blob/main/Banner_Indre.jpg">
 
 
-- 🎓 I'm graduating Data Analytics course at **Turing College**
+- 🎓 Data Analytics graduate at **Turing College**
 
-- 🔭 Searching for a job as **Data Analyst**, **Product Analyst**, **Marketing Analyst** or **BI Analyst**
+- 🏦 **Data Analyst** at **PayRay bank**
 
 - 💡 Passionate about data-driven decision-making
 
-- 👨‍💻 Proficient in **Tableau**, **SQL**, **Google BigQuery**, and creating insightful **dashboards**
+- 👨‍💻 Proficient in **Tableau**, **SQL**, **Google BigQuery**, **Python** and creating insightful **dashboards**
 
 - 📊 Skilled in conducting **Cohort Analysis**, **Funnels**, **RFM**, **CLV** and **A/B testing** to derive business insights, calculating **Linear and Logistic Regressions**
-
-- 🌱 Currently learning **Python**
   
 - 💛 I love cats 🐈‍⬛, dance 👠, technologies 👩🏻‍💻 and stance 🚘
 
