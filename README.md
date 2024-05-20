@@ -6,7 +6,7 @@
 
 - 🎓 Data Analytics graduate at **Turing College**
 
-- 🏦 **Data Analyst** at **PayRay bank**
+- 🏦 Data Analyst at **PayRay bank**
 
 - 💡 Passionate about data-driven decision-making
 
