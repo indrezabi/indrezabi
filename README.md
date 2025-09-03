@@ -5,7 +5,7 @@
 
 - 🎓 Data Analytics graduate at **Turing College**
 
-- 🏦 Data Analyst / Engineer at **PayRay bank**
+- 🏦 Data Analyst / BI Developer at **PayRay bank**
 
 - 💡 Passionate about data-driven decision-making
 
