@@ -6,7 +6,7 @@
 
 - 🎓 Data Analytics graduate at **Turing College**
 
-- 🏦 Data Analyst at **PayRay bank**
+- 🏦 Data Analyst / Engineer at **PayRay bank**
 
 - 💡 Passionate about data-driven decision-making
 
@@ -14,7 +14,6 @@
 
 - 📊 Skilled in conducting **Cohort Analysis**, **Funnels**, **RFM**, **CLV** and **A/B testing** to derive business insights, calculating **Linear and Logistic Regressions**
   
-- 💛 I love cats 🐈‍⬛, dance 👠, technologies 👩🏻‍💻 and stance 🚘
 
 <div>
   <h2></h2>
